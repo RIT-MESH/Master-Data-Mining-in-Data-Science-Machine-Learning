@@ -7,6 +7,8 @@ This course begins by providing you the complete knowledge about the introductio
 
 This course is a complete package for everyone wanting to pursue a career in data mining.
 
+[Click me to enrol](https://www.udemy.com/course/data-mining-in-data-science-machine-learning)
+
 ## In this course, you will cover the following topics:-
 
 - Data Mining Standard Processes.
